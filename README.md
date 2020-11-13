@@ -9,7 +9,7 @@
 
 This project demonstrates how to use Überauth and multiple strategies to provide authentication for a Phoenix application.  The project has been setup to run on Heroku can can be found at [ueberauth-example.herokuapp.com](https://ueberauth-example.herokuapp.com).
 
-In this example we'll use five strategies:
+In this example we'll use six strategies:
 
 + Facebook ([ueberauth_facebook](https://github.com/ueberauth/ueberauth_facebook))
 + GitHub ([ueberauth_github](https://github.com/ueberauth/ueberauth_github))
